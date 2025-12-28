@@ -13,7 +13,7 @@ abcsxl` to see the charts.
 
 To install the <chart-name> chart:
 
-    helm install my-<chart-name> <alias>/<chart-name>
+    helm install my-<chart-name> abcsxl/<chart-name>
 
 To uninstall the chart:
 
